@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyle = createGlobalStyle`
   :root {
@@ -16,9 +16,9 @@ const GlobalStyle = createGlobalStyle`
 `
 
 export const cssSnipets = {
-  flexColumn: ' display: flex; justify-content: center; flex-direction: column;',
+  flexColumn:
+    ' display: flex; justify-content: center; flex-direction: column;',
   flexRow: ' display: flex; justify-content: center; align-items: center;',
 }
 
 export default GlobalStyle
- 
