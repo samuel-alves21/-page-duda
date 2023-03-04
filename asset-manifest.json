@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.f66fe885.js",
-    "static/media/headerBackground.jpg": "/static/media/headerBackground.d74a8ab3245bd77c0057.jpg",
-    "static/media/footerBackground.jpg": "/static/media/footerBackground.eb4de7666b8d58be5356.jpg",
-    "static/media/headerBackgroundMobile.jpg": "/static/media/headerBackgroundMobile.a1e0d75bcd0b8bb01473.jpg",
-    "static/media/diamondIconGlow.png": "/static/media/diamondIconGlow.dc341a87f2c7e7fba204.png",
-    "static/media/moneyIconGlow.png": "/static/media/moneyIconGlow.6a0fe7c0f9a5b96b03f5.png",
-    "index.html": "/index.html",
-    "main.f66fe885.js.map": "/static/js/main.f66fe885.js.map"
+    "main.js": "/-page-duda/static/js/main.4efc80db.js",
+    "static/media/headerBackground.jpg": "/-page-duda/static/media/headerBackground.d74a8ab3245bd77c0057.jpg",
+    "static/media/footerBackground.jpg": "/-page-duda/static/media/footerBackground.eb4de7666b8d58be5356.jpg",
+    "static/media/headerBackgroundMobile.jpg": "/-page-duda/static/media/headerBackgroundMobile.a1e0d75bcd0b8bb01473.jpg",
+    "static/media/diamondIconGlow.png": "/-page-duda/static/media/diamondIconGlow.dc341a87f2c7e7fba204.png",
+    "static/media/moneyIconGlow.png": "/-page-duda/static/media/moneyIconGlow.6a0fe7c0f9a5b96b03f5.png",
+    "index.html": "/-page-duda/index.html",
+    "main.4efc80db.js.map": "/-page-duda/static/js/main.4efc80db.js.map"
   },
   "entrypoints": [
-    "static/js/main.f66fe885.js"
+    "static/js/main.4efc80db.js"
   ]
 }
